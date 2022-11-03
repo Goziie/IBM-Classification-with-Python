@@ -1,6 +1,6 @@
 # IBM-Classification-with-Python
 
-In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not.
+In this project, you will build a classifier to predict whether a loan case will be paid off or not.
 
 You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
 
