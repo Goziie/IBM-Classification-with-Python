@@ -2,7 +2,7 @@
 
 In this project, you will build a classifier to predict whether a loan case will be paid off or not.
 
-You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
+I loaded a historical dataset from previous loan applications, cleaned the data, and apply different classification algorithm on the data. I am going to use the following algorithms to build my models:
 
 - k-Nearest Neighbour
 
